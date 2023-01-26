@@ -1,7 +1,4 @@
-﻿using Syncfusion.Pdf;
-using Syncfusion.Pdf.Parsing;
-using System.Configuration;
-using System.Text;
+﻿using Syncfusion.Pdf.Parsing;
 
 namespace PdfValidatorSyncfusion.Utils
 {
